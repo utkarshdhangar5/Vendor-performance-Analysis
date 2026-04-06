@@ -23,6 +23,7 @@ The dataset consists of multiple tables:
 - Product pricing
 - Begin Inventory
 - End Inventory
+  
 These datasets were merged and processed to create a unified analytical dataset.
 
 ## 📊 Key Insights
